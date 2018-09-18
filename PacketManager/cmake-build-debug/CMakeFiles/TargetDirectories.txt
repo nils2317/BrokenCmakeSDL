@@ -1,0 +1,3 @@
+C:/Users/nils.steinbuegl/Desktop/PacketManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nils.steinbuegl/Desktop/PacketManager/cmake-build-debug/CMakeFiles/PacketManager.dir
+C:/Users/nils.steinbuegl/Desktop/PacketManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
