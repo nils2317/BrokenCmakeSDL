@@ -77,17 +77,80 @@ CMakeFiles\MyEngine.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyEngine.dir\main.cpp.s /c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\main.cpp
 <<
 
+CMakeFiles\MyEngine.dir\Component.cpp.obj: CMakeFiles\MyEngine.dir\flags.make
+CMakeFiles\MyEngine.dir\Component.cpp.obj: ..\Component.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyEngine.dir/Component.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyEngine.dir\Component.cpp.obj /FdCMakeFiles\MyEngine.dir\ /FS -c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Component.cpp
+<<
+
+CMakeFiles\MyEngine.dir\Component.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyEngine.dir/Component.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\MyEngine.dir\Component.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Component.cpp
+<<
+
+CMakeFiles\MyEngine.dir\Component.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyEngine.dir/Component.cpp.s"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyEngine.dir\Component.cpp.s /c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Component.cpp
+<<
+
+CMakeFiles\MyEngine.dir\GameObject.cpp.obj: CMakeFiles\MyEngine.dir\flags.make
+CMakeFiles\MyEngine.dir\GameObject.cpp.obj: ..\GameObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyEngine.dir/GameObject.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyEngine.dir\GameObject.cpp.obj /FdCMakeFiles\MyEngine.dir\ /FS -c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\GameObject.cpp
+<<
+
+CMakeFiles\MyEngine.dir\GameObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyEngine.dir/GameObject.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\MyEngine.dir\GameObject.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\GameObject.cpp
+<<
+
+CMakeFiles\MyEngine.dir\GameObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyEngine.dir/GameObject.cpp.s"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyEngine.dir\GameObject.cpp.s /c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\GameObject.cpp
+<<
+
+CMakeFiles\MyEngine.dir\Scene.cpp.obj: CMakeFiles\MyEngine.dir\flags.make
+CMakeFiles\MyEngine.dir\Scene.cpp.obj: ..\Scene.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyEngine.dir/Scene.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyEngine.dir\Scene.cpp.obj /FdCMakeFiles\MyEngine.dir\ /FS -c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Scene.cpp
+<<
+
+CMakeFiles\MyEngine.dir\Scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyEngine.dir/Scene.cpp.i"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\MyEngine.dir\Scene.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Scene.cpp
+<<
+
+CMakeFiles\MyEngine.dir\Scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyEngine.dir/Scene.cpp.s"
+	C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyEngine.dir\Scene.cpp.s /c C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\Scene.cpp
+<<
+
 # Object files for target MyEngine
 MyEngine_OBJECTS = \
-"CMakeFiles\MyEngine.dir\main.cpp.obj"
+"CMakeFiles\MyEngine.dir\main.cpp.obj" \
+"CMakeFiles\MyEngine.dir\Component.cpp.obj" \
+"CMakeFiles\MyEngine.dir\GameObject.cpp.obj" \
+"CMakeFiles\MyEngine.dir\Scene.cpp.obj"
 
 # External object files for target MyEngine
 MyEngine_EXTERNAL_OBJECTS =
 
 MyEngine.exe: CMakeFiles\MyEngine.dir\main.cpp.obj
+MyEngine.exe: CMakeFiles\MyEngine.dir\Component.cpp.obj
+MyEngine.exe: CMakeFiles\MyEngine.dir\GameObject.cpp.obj
+MyEngine.exe: CMakeFiles\MyEngine.dir\Scene.cpp.obj
 MyEngine.exe: CMakeFiles\MyEngine.dir\build.make
 MyEngine.exe: CMakeFiles\MyEngine.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MyEngine.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable MyEngine.exe"
 	"C:\Program Files\JetBrains\CLion 2018.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\MyEngine.dir --manifests  -- C:\PROGRA~2\MICROS~1\2017\ENTERP~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\MyEngine.dir\objects1.rsp @<<
  /out:MyEngine.exe /implib:MyEngine.lib /pdb:C:\Users\nils.steinbuegl\Desktop\Engines\MyEngine\cmake-build-debug\MyEngine.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

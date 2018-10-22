@@ -84,6 +84,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Component.cpp">
+			<Option target="MyEngine"/>
+		</Unit>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/GameObject.cpp">
+			<Option target="MyEngine"/>
+		</Unit>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/Component.h">
+			<Option target="MyEngine"/>
+		</Unit>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/GameObject.h">
+			<Option target="MyEngine"/>
+		</Unit>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/Scene.h">
+			<Option target="MyEngine"/>
+		</Unit>
+		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Scene.cpp">
+			<Option target="MyEngine"/>
+		</Unit>
 		<Unit filename="C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/main.cpp">
 			<Option target="MyEngine"/>
 		</Unit>

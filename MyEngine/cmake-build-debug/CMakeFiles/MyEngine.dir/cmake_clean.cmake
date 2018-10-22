@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MyEngine.dir/main.cpp.obj"
+  "CMakeFiles/MyEngine.dir/Component.cpp.obj"
+  "CMakeFiles/MyEngine.dir/GameObject.cpp.obj"
+  "CMakeFiles/MyEngine.dir/Scene.cpp.obj"
   "MyEngine.pdb"
   "MyEngine.exe"
   "MyEngine.exe.manifest"

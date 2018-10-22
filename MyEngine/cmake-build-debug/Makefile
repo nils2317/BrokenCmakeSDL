@@ -124,6 +124,87 @@ MyEngine\fast:
 	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\build
 .PHONY : MyEngine\fast
 
+Component.obj: Component.cpp.obj
+
+.PHONY : Component.obj
+
+# target to build an object file
+Component.cpp.obj:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Component.cpp.obj
+.PHONY : Component.cpp.obj
+
+Component.i: Component.cpp.i
+
+.PHONY : Component.i
+
+# target to preprocess a source file
+Component.cpp.i:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Component.cpp.i
+.PHONY : Component.cpp.i
+
+Component.s: Component.cpp.s
+
+.PHONY : Component.s
+
+# target to generate assembly for a file
+Component.cpp.s:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Component.cpp.s
+.PHONY : Component.cpp.s
+
+GameObject.obj: GameObject.cpp.obj
+
+.PHONY : GameObject.obj
+
+# target to build an object file
+GameObject.cpp.obj:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\GameObject.cpp.obj
+.PHONY : GameObject.cpp.obj
+
+GameObject.i: GameObject.cpp.i
+
+.PHONY : GameObject.i
+
+# target to preprocess a source file
+GameObject.cpp.i:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\GameObject.cpp.i
+.PHONY : GameObject.cpp.i
+
+GameObject.s: GameObject.cpp.s
+
+.PHONY : GameObject.s
+
+# target to generate assembly for a file
+GameObject.cpp.s:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\GameObject.cpp.s
+.PHONY : GameObject.cpp.s
+
+Scene.obj: Scene.cpp.obj
+
+.PHONY : Scene.obj
+
+# target to build an object file
+Scene.cpp.obj:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Scene.cpp.obj
+.PHONY : Scene.cpp.obj
+
+Scene.i: Scene.cpp.i
+
+.PHONY : Scene.i
+
+# target to preprocess a source file
+Scene.cpp.i:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Scene.cpp.i
+.PHONY : Scene.cpp.i
+
+Scene.s: Scene.cpp.s
+
+.PHONY : Scene.s
+
+# target to generate assembly for a file
+Scene.cpp.s:
+	$(MAKE) -f CMakeFiles\MyEngine.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyEngine.dir\Scene.cpp.s
+.PHONY : Scene.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -160,6 +241,15 @@ help:
 	@echo ... rebuild_cache
 	@echo ... MyEngine
 	@echo ... edit_cache
+	@echo ... Component.obj
+	@echo ... Component.i
+	@echo ... Component.s
+	@echo ... GameObject.obj
+	@echo ... GameObject.i
+	@echo ... GameObject.s
+	@echo ... Scene.obj
+	@echo ... Scene.i
+	@echo ... Scene.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
