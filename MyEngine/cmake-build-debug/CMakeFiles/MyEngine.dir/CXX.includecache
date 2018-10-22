@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Component.cpp
-Headers/Component.h
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/Component.h
-
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/GameObject.cpp
-Headers/GameObject.h
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/GameObject.h
-
 C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/Component.h
 iostream
 -
@@ -59,10 +51,6 @@ typeindex
 -
 vector
 -
-
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Scene.cpp
-Headers/Scene.h
-C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/Headers/Scene.h
 
 C:/Users/nils.steinbuegl/Desktop/Engines/MyEngine/main.cpp
 Headers/Scene.h
